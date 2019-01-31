@@ -5,3 +5,5 @@ build.js
 app/temp
 cypress/cypress/fixtures
 cypress/cypress/support
+webpack2/package-lock.json
+pack-lock.json
